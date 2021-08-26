@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.OptimisticLockException"/>
+<fullyQualifiedTypeName name="net.sf.cglib.proxy.Enhancer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+<fullyQualifiedTypeName name="anotacao.PersistenceContext"/>
+<fullyQualifiedTypeName name="servico.controle.JPAUtil"/>
+</qualifiedTypeNameHistroy>
