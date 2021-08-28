@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="-1090" key="DIALOG_X_ORIGIN"/>
+		<item value="-486" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="ExternalProjectImportWizard">
 		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
@@ -8,6 +15,7 @@
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\Thiago_Freitas_trabalho5.zip"/>
 			<item value="D:\Bibliotecas\Downloads\Exercicio07-AppService-com-Proxy-de-Servico-Completo.zip"/>
 			<item value="D:\Bibliotecas\Downloads\Trabalho03-AppService-servico-chama-servico.zip"/>
 			<item value="D:\Bibliotecas\Downloads\Exercicio01-Produto-Inclui-Altera-Exclui-incompleto-mysql.zip"/>
