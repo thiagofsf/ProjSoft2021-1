@@ -1505,3 +1505,15 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-08-28 03:44:57.559
 !MESSAGE The POM for corejava:console:jar:1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-08-28 04:03:57.338
+!MESSAGE No repository found at http://download.eclipse.org/tools/ajdt/43/update/ajdt_2.2.3_for_eclipse_4.3.zip.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-08-28 04:04:01.063
+!MESSAGE No repository found at http://www.eclipse.org/downloads/download.php?file=/tools/aspectj/aspectj-1.9.3.jar.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-08-28 04:04:09.490
+!MESSAGE No repository found at http://www.eclipse.org/downloads/download.php?file=/tools/aspectj/aspectj-1.8.14-src.jar.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-08-28 04:04:14.809
+!MESSAGE No repository found at http://www.eclipse.org/downloads/download.php?file=/tools/aspectj/dev/aspectj-DEVELOPMENT-201901140838.jar.
