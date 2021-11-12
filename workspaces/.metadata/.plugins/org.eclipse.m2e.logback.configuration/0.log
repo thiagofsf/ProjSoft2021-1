@@ -2799,3 +2799,29 @@ org.eclipse.core.runtime.CoreException: Launch configuration Principal (2) refer
 2021-08-28 03:44:57,707 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2021-08-28 03:44:57,721 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
 2021-08-28 03:44:57,721 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\workspaces\Trabalho06\src\test\resources
+2021-08-28 04:38:58,489 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-28 04:49:59,449 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for corejava:console:jar:1.0 is missing, no dependency information available
+2021-08-28 04:50:00,161 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-08-28 04:50:00,173 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-08-28 04:50:00,185 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-08-28 04:50:00,185 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\workspaces\Trabalho06\src\test\resources
+2021-08-28 04:50:07,764 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-08-28 04:50:07,768 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-28 04:50:07,771 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-08-28 04:50:07,771 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\workspaces\Trabalho06\src\test\resources
+2021-09-12 21:58:20,116 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-12 21:58:53,226 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for corejava:console:jar:1.0 is missing, no dependency information available
+2021-09-12 21:58:57,357 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-09-12 21:58:57,389 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-12 21:58:57,404 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-09-12 21:58:57,404 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\workspaces\Thiago-Freitas-Trabalho\src\test\resources
+2021-09-12 21:58:59,514 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for corejava:console:jar:1.0 is missing, no dependency information available
+2021-09-12 21:59:00,155 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-09-12 21:59:00,155 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-12 21:59:00,170 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-09-12 21:59:00,170 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\workspaces\Trabalho05\src\test\resources
+2021-09-12 21:59:00,452 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for corejava:console:jar:1.0 is missing, no dependency information available
+2021-09-12 21:59:00,670 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-09-12 21:59:00,670 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-12 21:59:00,702 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'ISO-8859-1' encoding to copy filtered resources.
+2021-09-12 21:59:00,702 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PROJETOS\UFF\projeto-de-software\ProjSoft2021-1\workspaces\Trabalho06\src\test\resources
